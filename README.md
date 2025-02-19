@@ -3,14 +3,14 @@
 [https://public.tableau.com/views/UKEmploymentDataset_17368656693180/UKEmploymentData2011-2014?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 ## Project Overview
-This project focuses on analyzing and visualizing job change trends in the UK using the **EMSI_JobChange_UK** dataset. By leveraging **Tableau**, I created interactive visualizations to highlight key insights related to industry and city-based job shifts. 
+This project focuses on analyzing and visualising job change trends in the UK using the **EMSI_JobChange_UK** dataset. By leveraging **Tableau**, I created interactive visualisations to highlight key insights related to industry and city-based job shifts. 
 
 ## Tools Used
 - **Excel**: Data cleaning and preprocessing.
-- **Tableau**: Data visualization and dashboard creation.
+- **Tableau**: Data visualisation and dashboard creation.
 
 ## Key Visualizations
-I developed the following visualizations to improve data interpretation:
+I developed the following visualisations to improve data interpretation:
 - **Horizontal Bar Chart**: Displays the **Top 10 Job Changes by Industry**.
 - **Symbol Map Chart**: Highlights the **Average % Change by City**.
 - **Tree Maps**: Show the **Top 10 Job Changes by Sub-Industry**.
@@ -30,7 +30,7 @@ Below are sample images from the Tableau dashboard:
 
 
 ## Conclusion
-This project provides insights into **job change trends across industries and cities in the UK**. The visualizations make it easier to understand which industries and locations are experiencing the most workforce shifts, aiding in better decision-making for stakeholders.
+This project provides insights into **job change trends across industries and cities in the UK**. The visualisations make it easier to understand which industries and locations are experiencing the most workforce shifts, aiding in better decision-making for stakeholders.
 
 ## Contact
 Feel free to explore my GitHub and Tableau portfolio for more projects!
